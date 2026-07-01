@@ -16,3 +16,5 @@ print(y2.dtype)
 print(y2)
 print(y2.ndim)
 # しらない
+
+print(y2.size)
