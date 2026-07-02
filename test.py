@@ -15,5 +15,11 @@ print(y2.shape)
 print(y2.dtype)
 print(y2)
 print(y2.ndim)
+# 1111111
+print(y2.size)
+print(y2.size)
+print(y2.size)
 
-#11111111
+
+
+# test
